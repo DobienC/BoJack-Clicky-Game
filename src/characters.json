@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1, 
+        "name": "Bojack Horseman",
+        "image": "images/BoJack_Horseman.png"
+    },
+    {
+        "id": 2, 
+        "name": "Princess Carolyn",
+        "image": "images/Princess_Carolyn.png"
+    },
+    {
+        "id": 3, 
+        "name": "Mr.Peanutbutter",
+        "image": "images/Mr_Peanutbutter.png"
+    },
+    {
+        "id": 4, 
+        "name": "Diane Nguyen",
+        "image": "images/Diane_Nguyen.png"
+    },
+    {
+        "id": 5, 
+        "name": "Todd Chavez",
+        "image": "images/Todd_Chavez.png"
+    },
+    {
+        "id": 6, 
+        "name": "Sarah Lynn",
+        "image": "images/Sarah_Lynn.png"
+    },
+    {
+        "id": 7, 
+        "name": "Hollhock",
+        "image": "images/Hollyhock.png"
+    },
+    {
+        "id": 8, 
+        "name": "Wanda Pierce",
+        "image": "images/Wanda_Pierce.png"
+    },
+    {
+        "id": 9, 
+        "name": "Kelsey Jannings",
+        "image": "images/Kelsey_Jannings.png"
+    },
+    {
+        "id": 10,
+        "name": "Charley Witherspoon",
+        "image": "images/Charley_Witherspoon.png"
+    },
+    {
+        "id": 11,
+        "name": "Pinky Penguin",
+        "image": "images/Pinky_Penguin.png"
+    },
+    {
+        "id": 12,
+        "name": "Beatrice Horseman",
+        "image": "images/Beatrice_Horseman.png"
+        }
+]
