@@ -1,5 +1,5 @@
 {
-  "name": "BoJack-Clicky-Game",
+  "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://DobienC.github.io/BoJack-Clicky-Game",
@@ -15,7 +15,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "depoy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
