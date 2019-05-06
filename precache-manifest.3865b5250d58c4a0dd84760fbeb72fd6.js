@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09f0fddb165a9c54ff94a6fe79cf3e72",
+    "revision": "b7aa7e931e515288da1893fc711a978e",
     "url": "/BoJack-Clicky-Game/index.html"
   },
   {
-    "revision": "d7977b36c2da8f2c91c5",
+    "revision": "7e437cd2ab3a29c6515e",
     "url": "/BoJack-Clicky-Game/static/css/main.584f321a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BoJack-Clicky-Game/static/js/2.6efc73d3.chunk.js"
   },
   {
-    "revision": "d7977b36c2da8f2c91c5",
-    "url": "/BoJack-Clicky-Game/static/js/main.80d498a5.chunk.js"
+    "revision": "7e437cd2ab3a29c6515e",
+    "url": "/BoJack-Clicky-Game/static/js/main.24a369d7.chunk.js"
   },
   {
     "revision": "87f4be799b2182fa052f",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BoJack-Clicky-Game/precache-manifest.3423fd5737f86f20c3f194476711a11b.js"
+  "/BoJack-Clicky-Game/precache-manifest.3865b5250d58c4a0dd84760fbeb72fd6.js"
 );
 
 self.addEventListener('message', (event) => {

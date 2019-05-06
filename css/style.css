@@ -1,6 +1,30 @@
 img{
-    height: 450px;
+    height: 325px;
+}
+@media (min-width: 576px) {
+    img{
+        height: 350px;
+    }
 }
 
-body{
+div.banner {
+    background-image:url("../images/banner.jpg");
+    align-content: center;
+    text-align: center;
+}
+
+div.banner-text{
+    color: black;
+    text-shadow:
+		-1px -1px 0 #fff,
+		1px -1px 0 #fff,
+		-1px 1px 0 #fff,
+		1px 1px 0 #fff;
+}
+
+.icons{
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 5px 10px;
+    margin: 5px;
 }

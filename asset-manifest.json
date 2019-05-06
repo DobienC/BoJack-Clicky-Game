@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BoJack-Clicky-Game/static/css/main.584f321a.chunk.css",
-    "main.js": "/BoJack-Clicky-Game/static/js/main.80d498a5.chunk.js",
-    "main.js.map": "/BoJack-Clicky-Game/static/js/main.80d498a5.chunk.js.map",
+    "main.js": "/BoJack-Clicky-Game/static/js/main.24a369d7.chunk.js",
+    "main.js.map": "/BoJack-Clicky-Game/static/js/main.24a369d7.chunk.js.map",
     "runtime~main.js": "/BoJack-Clicky-Game/static/js/runtime~main.5702f935.js",
     "runtime~main.js.map": "/BoJack-Clicky-Game/static/js/runtime~main.5702f935.js.map",
     "static/js/2.6efc73d3.chunk.js": "/BoJack-Clicky-Game/static/js/2.6efc73d3.chunk.js",
     "static/js/2.6efc73d3.chunk.js.map": "/BoJack-Clicky-Game/static/js/2.6efc73d3.chunk.js.map",
     "index.html": "/BoJack-Clicky-Game/index.html",
-    "precache-manifest.3423fd5737f86f20c3f194476711a11b.js": "/BoJack-Clicky-Game/precache-manifest.3423fd5737f86f20c3f194476711a11b.js",
+    "precache-manifest.3865b5250d58c4a0dd84760fbeb72fd6.js": "/BoJack-Clicky-Game/precache-manifest.3865b5250d58c4a0dd84760fbeb72fd6.js",
     "service-worker.js": "/BoJack-Clicky-Game/service-worker.js",
     "static/css/main.584f321a.chunk.css.map": "/BoJack-Clicky-Game/static/css/main.584f321a.chunk.css.map",
     "static/media/logo.svg": "/BoJack-Clicky-Game/static/media/logo.5d5d9eef.svg"
