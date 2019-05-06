@@ -30,7 +30,8 @@ class GameContainer extends Component {
 
     render(){
         return (
-            <div>
+            //className="banner"
+            <div className="banner">
                 <NavBar score={this.state.score} highScore={this.state.highScore}/>
                 <Banner />
                 <Board icons={this.state.icons} handleButtonClick={this.handleButtonClick}/>
